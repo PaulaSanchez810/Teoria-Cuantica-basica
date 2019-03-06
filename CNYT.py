@@ -19,7 +19,7 @@ def Tensor(A,B):
     return A
 
 
-def vecmatriz(v, b):
+def vector_Matriz(v, b):
     filasB = len(b)
     columnasA = len(v[0])
     if filasB == columnasA:
@@ -36,7 +36,7 @@ def vecmatriz(v, b):
     else:return False
 
 
-def matrizmultiplication(A, B):
+def multiplicationMatriz(A, B):
     filasB = len(B)
     columnasA = len(A[0])
     if filasB == columnasA:
@@ -55,7 +55,7 @@ def matrizmultiplication(A, B):
         return False
 
 
-def transpose(matriz):
+def transpuesta(matriz):
     filas = len(matriz)
     columnas = len(matriz[0])
     return [[matriz[j][i] for j in range(filas)] for i in range(columnas)]
@@ -64,27 +64,27 @@ def transpose(matriz):
 def canicas(M, N, v):
     n = M
     while N != 0:
-        f = matrizmultiplication(n, M)
-        n = f
+        p = matrizmultiplication(n, M)
+        n = p
         N -= 1
     return matrizmultiplication(n, transpose(v))
 def balas(M, N, v):
     n = M
     while N != 0:
-        f = matrizmultiplication(n, M)
-        n = f
+        p = matrizmultiplication(n, M)
+        n = p
         N -= 1
     return matrizmultiplication(n, transpose(v))
 
-def flash(M, N):
+def medicion_balas(M, N):
     n = M
     while N != 0:
-        f = matrizmultiplication(n, M)
-        n = f
+        p = matrizmultiplication(n, M)
+        n = p
         N -= 1
-    f = M
+    p = M
     for i in range(len(M)):
         for j in range(len(M[0])):
             h = (M[i][j][0] ** 2) + (M[i][j][1] ** 2)
-            f[i][j] = h
-    return f
+            p[i][j] = h
+    return p
