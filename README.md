@@ -24,9 +24,13 @@ Este programa simula experimentos de computación cuántica:
 * Normalización
 * Spin (Partícula arriba o abajo probabilidad)
 
+### Ejecutando las pruebas
+
+### Analizando puebas 
+
 ### Prerequisitos
 
-Estas funciones solo se podra ejecutar en PYTHON 3.6.2
+Estas librias solo se podra ejecutar en PYTHON 3.6.2
 
 
 ### Instalación
