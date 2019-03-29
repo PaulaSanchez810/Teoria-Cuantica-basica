@@ -15,6 +15,15 @@ Usuario especifica el número de puntos posibles y un vector ket y el sistema ca
 #### -Cómo se miden los estados de los observables:
 El sistema calcula los valores propios del observable y la probabilidad de que el sistema transite a alguno de los vectores propios después de la observación.
 
+# Metodo de aplicación:
+Este programa simula experimentos de computación cuántica:
+* canicas
+* Probabilidad
+* Doble rendija.
+* Instancia de probabilidad de partículas
+* Normalización
+* Spin (Partícula arriba o abajo probabilidad)
+
 ### Prerequisitos
 La calculadora de numero complejos, solo se podra ejecutar en PYTHON 3.6.2
 
