@@ -32,10 +32,25 @@ Este programa simula experimentos de computación cuántica:
 5. Si "prueba_1.py" retorna "Ok", el programa esta funcionando adeacuadamente.
 ```
 ### Analizando puebas 
+```
+Un ejemplo de impletecion de prubas que se puede ejecutar para cualquier libreria el la siguiente:
+1. descargue la libreria que desee
+   por ejemplo para el caso de la libreria observable_estado:
+   *Caso1: particula
+   ingresa el vertor [(-3, -1), (0, -2), (0, 1), (2, 0)]
+   el valor que deberia retornar es 0.052632
+   *Caso2:spin
+   ingresa el vertor [(3, -4), (7, 2)]
+   el valore que deberia retornar es 0.32, 0.68
+   *Caso3:normalizar
+   ingresa el vertor [(2, -3), (1, 2)]
+   el valore que deberia retornar es [(0.47141, -0.70711), (0.2357, 0.47141)]
+   
+```
 
 ### Prerequisitos
 ```
-Estas librias solo se podra ejecutar en PYTHON 3.6.2
+Estas librerias solo se podra ejecutar en PYTHON 3.6.2
 ```
 
 ### Instalación
