@@ -6,7 +6,7 @@ La teoría cuántica es una teoría física basada en la utilización del concep
 
 # Objetivo
 
-EL objetivo de estas liberias, es que el usuario  pueda accceder de una forma facil a todas las operaciones que se pueden ejecutar con los numeros complejos.
+EL objetivo de estas liberias, es que el usuario  pueda accceder de una forma facil las diferentes operaciones que se realizan en la teoria cuantica basica, para que pueda entender como se compartan los diferentes fenomenos en los multiversos.
 
 ### Prerequisitos
 La calculadora de numero complejos, solo se podra ejecutar en PYTHON 3.6.2
