@@ -13,7 +13,7 @@ Usuario especifica el número de puntos posibles y un vector ket y el sistema ca
 * Describe cantidades físicas observables dentro del marco cuántico:
  el sistema revisa que la matriz sea hermitiana, y si lo es, calcula la media y la varianza del observable en el estado dado.
 * Cómo se miden los estados de los observables:
-El sistema calcula los valores propios del observable y la probabilidad de que el sistema transite a alguno de los vector(https://www.python.org/downloads/)
+El sistema calcula los valores propios del observable y la probabilidad de que el sistema transite a alguno de los vector.
 ```
 Este programa simula experimentos de computación cuántica:
 * canicas
@@ -35,7 +35,7 @@ Estas librias solo se podra ejecutar en PYTHON 3.6.2
 
 ### Instalación
 
-Para descargar Python 3.6.2 ingrese al siguiente enlace (https://www.python.org/downloads/)
+[Para descargar Python 3.6.2 ingrese al siguiente enlace ](https://www.python.org/downloads/)
 
 ## Authors
 
