@@ -34,7 +34,7 @@ Este programa simula experimentos de computación cuántica:
 ### Analizando puebas 
 ```
 Un ejemplo de impletecion de prubas que se puede ejecutar para cualquier libreria el la siguiente:
-1. descargue la libreria que desee
+---> descargue la libreria que desee
    por ejemplo para el caso de la libreria observable_estado:
    *Caso1: particula
    ingresa el vertor [(-3, -1), (0, -2), (0, 1), (2, 0)]
