@@ -12,7 +12,7 @@ Donde se se habarcara los siguientes temas:
 Usuario especifica el número de puntos posibles y un vector ket y el sistema calcula las probabilidades de encontrar partícula en una posición y ademas el sistema puede recibir dos vectores y calcular la probabilidad de transitar de el uno al otro después de hacer la observación.
 #### -Describe cantidades físicas observables dentro del marco cuántico:
  el sistema revisa que la matriz sea hermitiana, y si lo es, calcula la media y la varianza del observable en el estado dado.
-#### -Cómo se miden las cantidades observables:
+#### -Cómo se miden los estados de los observables:
 El sistema calcula los valores propios del observable y la probabilidad de que el sistema transite a alguno de los vectores propios después de la observación.
 
 ### Prerequisitos
