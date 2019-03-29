@@ -1,6 +1,6 @@
-# Quantum
-En estas librerias podras encontrar operaciones  con numeros complejos como: 
-suma, resta, multiplicacion, divicion, modulo, conjugado, fase,pasar de cartesiana a polares, pasar de polar a arteciana, adiccion entre matrices, mulriplicacion de matriz, la transpuesta de una matriz, multipliucaion de un escalar, el conjugado de una matriz,la adjunta de una matriz, el podructo interno de una matriz, la norma de una matriz, mulriplicaion entre dos matrices, tensor, la distacia entre dos vectores en adicion podras encontras la validez de si una matriz es hermitiana y uniaria.
+#Teoría Cuántica básica
+
+La teoría cuántica es una teoría física basada en la utilización del concepto de unidad cuántica para describir las propiedades dinámicas de las partículas subatómicas y las interacciones entre la materia y la radiación. Bajo esta premisa se ha construido el que es uno de los pilares fundamentales de la física.
 
 # Objetivo
 
