@@ -16,14 +16,15 @@ Usuario especifica el número de puntos posibles y un vector ket y el sistema ca
 El sistema calcula los valores propios del observable y la probabilidad de que el sistema transite a alguno de los vectores propios después de la observación.
 
 # Metodo de aplicación:
-'
+```
 Este programa simula experimentos de computación cuántica:
 * canicas
 * Probabilidad
 * Doble rendija.
 * Instancia de probabilidad de partículas
 * Normalización
-* Spin (Partícula arriba o abajo probabilidad) '
+* Spin (Partícula arriba o abajo probabilidad) 
+```
 
 ### Ejecutando las pruebas
 
