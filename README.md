@@ -25,7 +25,8 @@ Este programa simula experimentos de computación cuántica:
 * Spin (Partícula arriba o abajo probabilidad)
 
 ### Prerequisitos
-La calculadora de numero complejos, solo se podra ejecutar en PYTHON 3.6.2
+
+Estas funciones solo se podra ejecutar en PYTHON 3.6.2
 
 
 ### Instalación
