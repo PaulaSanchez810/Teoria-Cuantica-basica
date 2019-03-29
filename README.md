@@ -31,7 +31,7 @@ Estas funciones solo se podra ejecutar en PYTHON 3.6.2
 
 ### Instalación
 
-Python 3.6.2 prodra descargar en el siguiente enlace https://www.python.org/downloads/release/python-362/
+Para descargar Python 3.6.2 ingrese al siguiente enlace https://www.python.org/downloads/release/python-362/
 
 ## Authors
 
