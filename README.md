@@ -9,8 +9,11 @@ La teoría cuántica es una teoría física basada en la utilización del concep
 EL objetivo de estas liberias, es que el usuario  pueda accceder de una forma facil a las diferentes operaciones que se realizan en la teoria cuantica basica, para que pueda entender como se compartan los diferentes fenomenos en los multiversos.
 Donde se se habarcara los siguientes temas:
 #### -Los diferentes estados cuánticos y cómo son distinguibles de entre sí a través de observaciones:
+Usuario especifica el número de puntos posibles y un vector ket y el sistema calcula las probabilidades de encontrar partícula en una posición y ademas el sistema puede recibir dos vectores y calcular la probabilidad de transitar de el uno al otro después de hacer la observación.
 #### -Describe cantidades físicas observables dentro del marco cuántico:
+ el sistema revisa que la matriz sea hermitiana, y si lo es, calcula la media y la varianza del observable en el estado dado.
 #### -Cómo se miden las cantidades observables:
+El sistema calcula los valores propios del observable y la probabilidad de que el sistema transite a alguno de los vectores propios después de la observación.
 
 ### Prerequisitos
 La calculadora de numero complejos, solo se podra ejecutar en PYTHON 3.6.2
