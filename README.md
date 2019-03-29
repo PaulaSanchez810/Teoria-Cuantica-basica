@@ -25,7 +25,12 @@ Este programa simula experimentos de computación cuántica:
 ```
 
 ### Ejecutando las pruebas
-
+```
+1. git clone https://github.com/PaulaSanchez810/Teoria-Cuantica-basica.git
+2. descarge la libreria  "probabilidades.py"
+3. ejecute "prueba_1.py"
+5. Si "prueba_1.py" retorna "Ok", el programa esta funcionando.
+```
 ### Analizando puebas 
 
 ### Prerequisitos
