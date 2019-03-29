@@ -1,5 +1,5 @@
 import unittest
-from q import*
+from probabilidades import*
 
 class casos(unittest.TestCase):
    
